@@ -11,21 +11,21 @@ Python Developer Internship from Elevate Labs.
 
 
 # Tools and Libraries
-## Python 
+- Python 
 
-## Pandas 
+- Pandas 
 
-## Jupyter Notebook / Google Colab 
+- Jupyter Notebook / Google Colab 
 
-## Matplotlib (for plotting)
+- Matplotlib (for plotting)
 
 # Key Concepts Covered
-## Pandas DataFrame: Using the primary Pandas data structure to hold and manipulate the sales data.
+- Pandas DataFrame: Using the primary Pandas data structure to hold and manipulate the sales data.
 
 
 
-## Data Aggregation: Applying the groupby() and sum() methods to aggregate data and extract meaningful insights.
+- Data Aggregation: Applying the groupby() and sum() methods to aggregate data and extract meaningful insights.
 
-## Data Visualization: Creating charts from the data to present findings clearly.
+- Data Visualization: Creating charts from the data to present findings clearly.
 
 
